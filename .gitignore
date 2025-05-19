@@ -108,3 +108,5 @@ venv.bak/
 .try
 .vscode/
 .vs/
+# Node modules
+node_modules/
