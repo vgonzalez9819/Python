@@ -108,3 +108,6 @@ venv.bak/
 .try
 .vscode/
 .vs/
+# Node modules
+node_modules/
+borrowed_items_app/server/database.db
